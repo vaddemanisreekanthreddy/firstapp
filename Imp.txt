@@ -1,0 +1,54 @@
+https://github.com/sandipmohapatra/Batch237
+
+
+
+
+GIT HUB COPILOT
+1.https://youtu.be/jXp5D5ZnxGM     GITHUB 
+2.https://youtu.be/hh1nOX14TyY     PROMT INGineering
+3.https://youtu.be/3surPGP7_4o
+2.https://youtu.be/2q0BoioYSxQ
+
+
+
+AI
+1.https://youtu.be/uMzUB89uSxU
+2.https://youtu.be/pWNAtUwnBS8
+3.https://youtu.be/o9-ObGgfpEk
+4.https://youtu.be/q6kJ71tEYqM
+5.https://youtu.be/iR2O2GPbB0E
+6.https://youtu.be/o5MutYFWsM8
+7.https://youtu.be/UIZAiXYceBI
+8.https://youtu.be/D64QD7Swr3s
+
+
+
+2.GITHUB copilot
+
+
+1.GitHub Copilot in VS Code
+Ghost Text
+Copilot anticipates your next move
+Viewing all Ghost Text options
+Inline Chat
+Chat View
+Sidebar
+Other places to find Copilot in the editor
+
+2.Prompt Engineering
+3S Principle of prompt crafting
+Simple
+Specific
+Short
+Master the basics of writing better prompts
+
+3.Getting Started with Chat
+Chat functionality powered by GitHub Copilot
+Demos of using Copilot chat
+
+4.What not to do in Copilot
+Don't let copilot fly the plane
+Don't misuse copilot tools
+Don't recreate existing prompts
+Don't forget about context
+Don't ignore feedback features
